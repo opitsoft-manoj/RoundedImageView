@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IMG">
+    <!--    <attr name="otpViesSize" format="string" localization="suggested" />-->
+        <attr name="roudedSize" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
