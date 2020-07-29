@@ -54,8 +54,9 @@ For Maven
  We can use for create rounded image and cricle image 
   
   
+  
    <com.mk.roundedimageview.RoundedImageView
-       
+   
         android:id="@+id/img"
 	
         android:layout_width="100dp"
@@ -67,6 +68,7 @@ For Maven
         app:roudedSize="50dp" />
         
         
+	
         
     Mathods 
     
